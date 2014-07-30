@@ -7,7 +7,7 @@ There're two buttons, one which work like ImageButton, and a new one like a Butt
 
 ## Screenshots ##
 
-<center>![Button Example](example/example.gif)</center>
+<center>![Button Example](screenshots/example.gif)</center>
 
 ## Usage ##
 
