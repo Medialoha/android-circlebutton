@@ -1,4 +1,4 @@
-SEGMENTED CONTROL
+CIRCLE BUTTON
 ===================================
 
 Circle button widget for Android, based on the work of *markushi*. 
