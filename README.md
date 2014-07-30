@@ -16,10 +16,11 @@ There're two buttons, one which work like ImageButton, and a new one like a Butt
 				xmlns:app="http://schemas.android.com/apk/res-auto"
 				android:layout_width="match_parent" android:layout_height="match_parent" >
 
-	<at.markushi.ui.CircleButton android:layout_width="64dp" android:layout_height="64dp"
+	<com.medialoha.android.lib.circlebutton.CircleImageButton 
+									android:layout_width="64dp" android:layout_height="64dp"
 									android:src="@drawable/ic_action_tick"
 									app:cb_color="#99CC00"
-									app:cb_pressed_ring_width="8dip" />
+									app:cb_pressed_ring_width="8dp" />
 
 </FrameLayout>
 ```
